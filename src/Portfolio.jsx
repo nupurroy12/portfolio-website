@@ -77,7 +77,7 @@ useEffect(() => {
          {lines[currentIndex]}
         </h3>  
         <p>I'm a final-year MCA student at BIT Mesra with a passion for software development and problem-solving. I enjoy building real-world applications using Java and the MERN stack, and I constantly explore new technologies to enhance my skills. I aim to create efficient, user-friendly software while learning and growing as a developer</p>
-        <a href="https://docs.google.com/document/d/1iyczz7bq-8wt5tMshtoORtqLKGGcfoc8/edit" className="resume-btn" target="_blank" rel="noopener noreferrer" >view resume</a>
+        <a href="https://docs.google.com/document/d/1T3N3o2H4zgiTrQcv25u9geoaJ4qfQmedD__-O4zydBU/edit?usp=sharing" className="resume-btn" target="_blank" rel="noopener noreferrer" >view resume</a>
         </div>
   <div className="hero-right">
     <img 
@@ -182,7 +182,7 @@ useEffect(() => {
     {/* 10th */}
     <div className="education-card">
       <div className="edu-left slide-left">
-        <img src="/10th-logo.png" alt="10th Logo" className="edu-logo" />
+        <img src="/bwgs.jpg" alt="10th Logo" className="edu-logo" />
         <p>2017-2018</p>
       </div>
       <div className="edu-right slide-right">
@@ -207,7 +207,7 @@ useEffect(() => {
   </p>
   <p className="contact-item slide-right">
     <FaGithub style={{ marginRight: "8px" }} />
-    <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/nupurroy12" target="_blank" rel="noopener noreferrer">
       nupurroy12
     </a>
   </p>

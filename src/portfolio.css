@@ -117,7 +117,6 @@ section {
   height: 400px;    /* rectangle shape */
   object-fit: cover;
   border-radius: 12px;  /* slight rounded corners */
-  border: 3px solid #6366f1; /* nice purple border */
 }
 
 /* Button */
